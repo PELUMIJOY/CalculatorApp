@@ -1,0 +1,26 @@
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .display-container  {
+    margin-bottom: 10px;
+    height: 5rem;
+    background-color: rgb(80, 70, 53);
+  }
+  .display{
+    height: 5rem; 
+    color: white !important; 
+    text-align: right;
+  }
+  
+  .button {
+    background-color: rgba(131, 115, 89, 0.8); 
+    width: 100%;
+    height: 40px;
+    font-size: 18px;
+    color: white; 
+  }
+
+  
